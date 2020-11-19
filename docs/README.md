@@ -2,6 +2,7 @@
 
 [![Client CI](https://github.com/WorldHealthOrganization/app/workflows/Client%20CI/badge.svg?event=push)](https://github.com/WorldHealthOrganization/app/actions?query=workflow%3A"Client+CI"+branch%3Amaster+event%3Apush)
 [![Server CI](https://github.com/WorldHealthOrganization/app/workflows/Server%20CI/badge.svg?event=push)](https://github.com/WorldHealthOrganization/app/actions?query=workflow%3A"Server+CI"+branch%3Amaster+event%3Apush)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsuddenlydoomy%2Fapp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsuddenlydoomy%2Fapp?ref=badge_shield)
 
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-3cc6fd?logo=flutter)
 ![Dart](https://img.shields.io/badge/Language-Dart-0c458b?logo=dart)
@@ -26,3 +27,7 @@ COVID-19 app
 ## Development Builds
 
 Please note that if you run the app from the GitHub repository, you are using a development-only build of this app not intended for public use. You agree that you have no expectation of privacy when using this build and understand that the content of the app may not have been reviewed by the World Health Organization.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsuddenlydoomy%2Fapp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsuddenlydoomy%2Fapp?ref=badge_large)
